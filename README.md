@@ -1,3 +1,5 @@
+**NOTE**: This will be included soon directly in the obstacle titlepack!
+
 # Hack Marker Count
 Plan ahead! Display more than just the next checkpoint.
 
